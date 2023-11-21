@@ -1,0 +1,17 @@
+
+*.sol
+*.rb
+ol8_19/.vagrant/machines/default/virtualbox/vagrant_cwd
+ol8_19/.vagrant/machines/default/virtualbox/synced_folders
+ol8_19/.vagrant/machines/default/virtualbox/private_key
+ol8_19/.vagrant/machines/default/virtualbox/index_uuid
+ol8_19/.vagrant/machines/default/virtualbox/id
+ol8_19/.vagrant/machines/default/virtualbox/creator_uid
+ol8_19/.vagrant/machines/default/virtualbox/box_meta
+ol8_19/.vagrant/machines/default/virtualbox/action_set_name
+ol8_19/.vagrant/machines/default/virtualbox/action_provision
+ol8_19/.DS_Store
+ol8_19/scripts/backup/*
+ol8_19/software/*.zip
+*.vdi
+*.gz

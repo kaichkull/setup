@@ -1,0 +1,11 @@
+box: oraclebase/oracle-8
+vm_name: oracle19
+mem_size: 4096
+cpus: 4
+public_ip: 192.168.56.140
+disk1_name: ./ol8_19_u01.vdi
+disk2_name: ./ol8_19_u02.vdi
+non_rotational: 'on'
+disk_size: 100
+helvis_key: /Users/rmastro/Documents/Dynamic/projects/kyndryl/setup_my_workstation/ansible_essentials/ansible/ssh_keys"
+projects_folder: /Users/rmastro/Documents/Dynamic/projects/kyndryl/
